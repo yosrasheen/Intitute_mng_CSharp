@@ -1,0 +1,15 @@
+﻿<%@ Register  assembly="Telerik.Web.UI" namespace="Telerik.Web.UI" tagprefix="telerik" %>
+
+ <telerik:RadDock  runat="server" Skin="Forest" /> 
+ <telerik:RadMenu  runat="server" Skin="Forest" Font-Size="Medium" /> 
+ <telerik:RadTabStrip runat="server"   Skin="Forest"/>
+ <telerik:RadPanelBar runat="server"   Skin="Forest"/>
+ <telerik:RadFormDecorator runat="server"   Skin="Forest"/>
+ <telerik:RadTextBox  runat="server"   Skin="Forest" Font-Names="Arial" Font-Size="11pt" Font-Bold="true" />
+  <telerik:RadButton runat="server"   Skin="Forest" Font-Size="Medium" Font-Names="Arial" Font-Bold="True" />
+ <telerik:RadGrid  runat="server" Skin="Forest" Font-Size="Medium" />
+ <asp:Label  runat="server" Font-Names="Arial" Font-Size="10pt" Font-Bold="true" />
+ <asp:LinkButton Font-Size="12pt" Font-Bold="true" runat="server"  />
+ <telerik:RadComboBox  runat="server" Skin="Forest"  Font-Names="Arial" Font-Size="12pt" Font-Bold="true" />
+ 
+ 

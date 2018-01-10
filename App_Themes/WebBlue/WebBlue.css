@@ -1,0 +1,75 @@
+﻿
+.TopMenuTable
+{
+    background-image: url('Images/TopMenuBG.JPG');
+    color: #CCFFFF;
+    font-weight: bold;
+    font-size: 10;
+    height: 30px;
+}
+
+
+
+.RadDock_WebBlue
+{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.RadDock_WebBlue .rdTitleBar
+{
+    font-size: 10pt !important;
+    font-weight: bolder !important;
+    font-family: 'Geneva !important';
+    color: #FFFFFF;
+}
+
+.RadMenu_WebBlue  .rmLink .rmText 
+{
+    font-size: 12pt !important;
+    font-weight: bolder !important;
+    font-family: Geneva !important; 
+           
+} 
+
+#scroller_container {
+ position: relative;
+ width: 990px;
+ height: 20px;
+ overflow: hidden;
+}
+
+#scroller
+{
+    white-space: nowrap;
+    line-height: 20px;
+    font-size: 10px;
+    font-family: 'Geneva !important';
+    font-weight: bold;
+    color: #000080;
+}
+
+#scroller p {
+ padding: 0;
+}
+
+.Button
+{
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 10px;
+    color: #000066;
+}
+
+.NewsTitle
+{    
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 10px;    
+}
+.NewsDtl
+{
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 10px;    
+}    
